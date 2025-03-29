@@ -14,7 +14,7 @@ import random
 torch.random.seed()
 np.random.seed(0)
 import matplotlib.pyplot as plt
-dataset_path_2020 = 'J:\BP1backup\ICML_subset2020'  # The path of subset
+dataset_path_2020 = 'your path'  # The path of subset
 
 
 
