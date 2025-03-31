@@ -2,7 +2,7 @@
 
 This repository contains the testing code and a subset of the data for the TCP-Diffusion project.
 
-⚠️ *To preserve anonymity for double-blind review, only the basic usage instructions are provided here. The full dataset and training code will be released upon acceptance.*
+⚠️ *To preserve anonymity for double-blind review, only basic usage instructions are provided here. Since the full dataset is approximately 24GB and cannot be uploaded to GitHub, and using Google Drive would violate the double-blind review policy, we have uploaded an anonymous link containing only a subset from the year 2020. The full dataset and training code will be released upon acceptance.*
 
 ## 🔧 Environment Setup
 
