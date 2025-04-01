@@ -1,4 +1,4 @@
-# TCP-Diffusion
+![图片](https://github.com/user-attachments/assets/e157e54a-afe8-49ee-8ebf-94235f1afbda)# TCP-Diffusion
 
 This repository contains the testing code and a subset of the data for the TCP-Diffusion project.
 
@@ -17,9 +17,9 @@ Configure the necessary environment. Recommended versions:
 
 Download the pre-trained model and the 2020 subset of the dataset via the following **anonymous link**:
 
-**[Download Link](https://limewire.com/d/nmQeM#FXv4COqEzd)**
+**[Download Link](https://limewire.com/d/MK3jk#nffGklz9Il)**
 
-⚠️ Due to hosting platform limitations, the link will expire on **YYYY-MM-DD** (one week from release). Please download it as soon as possible.
+⚠️ Due to hosting platform limitations, the link will expire on **2025-04-08** (one week from release). Please download it as soon as possible.
 
 **Note:**
 - Only data from the year **2020** is included.
