@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/e157e54a-afe8-49ee-8ebf-94235f1afbda)# TCP-Diffusion
+# TCP-Diffusion
 
 This repository contains the testing code and a subset of the data for the TCP-Diffusion project.
 
