@@ -19,7 +19,7 @@ Download the pre-trained model and the 2020 subset of the dataset via the follow
 
 **[Download Link](https://limewire.com/d/xVLfW#xm09zX9x5M)**
 
-⚠️ Due to hosting platform limitations, the link will expire on **2025-04-08** (one week from release). Please download it as soon as possible.
+⚠️ Due to hosting platform limitations, the link will expire on **2025-04-17** (one week from release). Please download it as soon as possible.
 
 **Note:**
 - Only data from the year **2020** is included.
