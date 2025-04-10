@@ -17,7 +17,7 @@ Configure the necessary environment. Recommended versions:
 
 Download the pre-trained model and the 2020 subset of the dataset via the following **anonymous link**:
 
-**[Download Link](https://limewire.com/d/MK3jk#nffGklz9Il)**
+**[Download Link](https://limewire.com/d/xVLfW#xm09zX9x5M)**
 
 ⚠️ Due to hosting platform limitations, the link will expire on **2025-04-08** (one week from release). Please download it as soon as possible.
 
