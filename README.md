@@ -14,9 +14,10 @@ Configure the necessary environment. Recommended versions:
 
 ## 📦 Download Model and Dataset Subset
 
-Download the pre-trained model and the 2020 subset of the dataset via the following **anonymous link**:
+Download the pre-trained model and the 2020 subset of the dataset via the following **link**:
 
 **[Model]([https://limewire.com/d/xVLfW#xm09zX9x5M](https://drive.google.com/file/d/1woEQWk_x_fJDpTJPXVlCXzwzh4loLtMl/view?usp=drive_link))**
+
 **[Dataset]([https://limewire.com/d/xVLfW#xm09zX9x5M](https://drive.google.com/file/d/1C-qlBwNENmMvojrfaZWjyfGz6L8LVwWZ/view?usp=drive_link))**
 
 
