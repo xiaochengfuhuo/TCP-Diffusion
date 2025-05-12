@@ -2,7 +2,6 @@
 
 This repository contains the testing code and a subset of the data for the TCP-Diffusion project.
 
-⚠️ *To preserve anonymity for double-blind review, only basic usage instructions are provided here. Since the full dataset is approximately 24GB and cannot be uploaded to GitHub, and using Google Drive would violate the double-blind review policy, we have uploaded an anonymous link containing only a subset from the year 2020. The full dataset and training code will be released upon acceptance.*
 
 ## 🔧 Environment Setup
 
@@ -17,13 +16,12 @@ Configure the necessary environment. Recommended versions:
 
 Download the pre-trained model and the 2020 subset of the dataset via the following **anonymous link**:
 
-**[Download Link](https://limewire.com/d/xVLfW#xm09zX9x5M)**
+**[Model]([https://limewire.com/d/xVLfW#xm09zX9x5M](https://drive.google.com/file/d/1woEQWk_x_fJDpTJPXVlCXzwzh4loLtMl/view?usp=drive_link))**
+**[Dataset]([https://limewire.com/d/xVLfW#xm09zX9x5M](https://drive.google.com/file/d/1C-qlBwNENmMvojrfaZWjyfGz6L8LVwWZ/view?usp=drive_link))**
 
-⚠️ Due to hosting platform limitations, the link will expire on **2025-04-17** (one week from release). Please download it as soon as possible.
 
 **Note:**
 - Only data from the year **2020** is included.
-- The full dataset will be released upon paper acceptance.
 
 ---
 
